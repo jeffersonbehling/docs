@@ -11,3 +11,4 @@ Internacionalização e Localização
 
     Você pode referenciar-se à versão inglesa no menu de seleção superior
     para obter informações sobre o tópico desta página.
+    
